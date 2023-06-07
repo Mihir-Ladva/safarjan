@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+
+.lmn{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .col-4{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin-top: 10px;
+  }
+  footer
+  {
+    margin-top: 2cm;
+  }
+  .card{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+  }
+.card-body
+{
+ background: black;
+ border: 2px;
+ color: whitesmoke;
+ border-radius: 10px;
+}
+
+.booknow
+{
+  text-align: center;
+}
+b
+{
+  color: blue;
+  background-color: lightblue;
+}
+form
+{
+  color: white;
+}
+form p
+{
+  text-align: center;
+}
+.quiry
+{
+  margin-top: 3cm;
+  border: 3px solid white;
+  text-align: center;
+}
+.price
+{
+ text-align: center;
+}
+
+.tour h2
+{
+  
+  text-align: center;
+  color: white;
+}
+.tour p
+{
+  
+  text-align: center;
+  color: white;
+}
+.col-12
+{
+  margin-top: 3cm;
+  border: 3px solid white;
+  border-radius: 30px;
+}
+.container-fluid h1
+{
+color: black;
+}
